@@ -24,6 +24,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 
 ---
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammedReda263&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🚀 About Me
